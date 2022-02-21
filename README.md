@@ -8,3 +8,7 @@
 6. Code!
 7. Create a PR to `staging`, and merge it to deploy to EKS staging namespace;
 8. Create a PR to `production`, and merge it to deploy to EKS production namespace;
+
+
+# DDL and UPDATE etc...
+
