@@ -1,8 +1,5 @@
 # lisa-development-procces
 
-ask 1
-
-ask 2
-
-
-ask2
+1. Create Github code repository, base on `template` repository. Must be Lisa's workflow name, in lower case with dash (replacing spaces)
+2. Create ECR. Must be Lisa's workflow name, in lower case with dash (replacing spaces)
+3. Creat 
