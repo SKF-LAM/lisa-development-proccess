@@ -1,3 +1,6 @@
+![image](https://user-images.githubusercontent.com/49169467/157120168-1e01c50c-2c67-4652-a036-edb9a9f4fff6.png)
+https://www.atlassian.com/blog/git/written-unwritten-guide-pull-requests
+
 # Initial process development.
 
 1. Create Github code repository, base on `template` repository. Must be Lisa's workflow name, in lower case with dash (replacing spaces);
