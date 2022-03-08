@@ -15,3 +15,13 @@ https://www.atlassian.com/blog/git/written-unwritten-guide-pull-requests
 
 # DDL and UPDATE etc...
 
+
+```
+Repositories README kinds
+ - BOTS developments
+ - Web Services
+ - ETL
+ - Deployment only
+ - Outros?
+ ```
+
