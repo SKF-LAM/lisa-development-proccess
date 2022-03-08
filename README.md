@@ -18,10 +18,20 @@ https://www.atlassian.com/blog/git/written-unwritten-guide-pull-requests
 
 ```
 Repositories README kinds
- - BOTS developments
- - Web Services
- - ETL
- - Deployment only
+ - RPA (Robotic Process
+ - Web - Backend 
+ - Web - UI
+ - Mobile development (UI)
+ - BI / Reports (??????)
+ - ETL (
  - Outros?
- ```
+```
+
+
+Ecommerce
+ - Grab source code to our Organization
+ - Configure deployment automation
+
+Orchestrator
+ - Configure deployment automation
 
