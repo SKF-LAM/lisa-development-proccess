@@ -13,25 +13,4 @@ https://www.atlassian.com/blog/git/written-unwritten-guide-pull-requests
 8. Create a PR to `production`, and merge it to deploy to EKS production namespace;
 
 
-# DDL and UPDATE etc...
-
-
-```
-Repositories README kinds
- - RPA (Robotic Process
- - Web - Backend 
- - Web - UI
- - Mobile development (UI)
- - BI / Reports (??????)
- - ETL (
- - Outros?
-```
-
-
-Ecommerce
- - Grab source code to our Organization
- - Configure deployment automation
-
-Orchestrator
- - Configure deployment automation
-
+![image](https://user-images.githubusercontent.com/49169467/179089171-35b4bf63-4f98-4f11-b21a-137aa6de5b26.png)
